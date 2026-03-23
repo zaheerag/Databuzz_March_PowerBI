@@ -1,8 +1,8 @@
 # Databuzz_March_PowerBI: Clinical Triage & System Analytics
 
-![Project Status] Completed
-![Developer] Zaheera Ganie
-![Tools] Power BI, DAX, Python
+* **Project Status:** Completed
+* **Developer:** Zaheera Ganie
+* **Tools:** Power BI, DAX, Python
 
 ## 📋 Executive Summary
 This project represents a comprehensive milestone in clinical data analytics, bridging the gap between raw medical datasets and actionable healthcare insights. Developed as a high-performance interactive system, the dashboard enables healthcare providers to transition seamlessly from macro-level facility trends to micro-level patient diagnostics.
