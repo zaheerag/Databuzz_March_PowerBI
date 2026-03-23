@@ -4,10 +4,10 @@
 * **Developer:** Zaheera Ganie
 * **Tools:** Power BI, DAX, Python
 
-## 📋 Executive Summary
+##  Executive Summary
 This project represents a comprehensive milestone in clinical data analytics, bridging the gap between raw medical datasets and actionable healthcare insights. Developed as a high-performance interactive system, the dashboard enables healthcare providers to transition seamlessly from macro-level facility trends to micro-level patient diagnostics.
 
-## 🐍 Data Science & Validation (Python / Google Colab)
+##  Data Science & Validation (Python / Google Colab)
 Before visualization, I performed a rigorous **5-Phase Validation** using a Python/Pandas stack to ensure the synthetic dataset adhered to realistic clinical benchmarks.
 
 ### The 5-Phase Validation Process:
@@ -23,7 +23,7 @@ Before visualization, I performed a rigorous **5-Phase Validation** using a Pyth
 
 ---
 
-## 📊 Dashboard Architecture
+##  Dashboard Architecture
 
 ### Page 1: Main Dashboard (High-Level Overview)
 * **Dynamic Risk Scoring:** Developed a DAX-based Triage Score that updates in real-time based on user-adjustable sliders for Fever and Glucose thresholds.
@@ -40,7 +40,7 @@ Before visualization, I performed a rigorous **5-Phase Validation** using a Pyth
 
 ---
 
-## 🏗️ The Model (Star Schema)
+##  The Model (Star Schema)
 The project utilizes a robust star schema to ensure high performance and filter integrity:
 * **Fact_Symptoms:** Centralized table unpivoted for granular symptom and blood test analysis.
 * **Dim_Patient:** Demographic hub containing age, gender, and location data.
@@ -51,7 +51,7 @@ The project utilizes a robust star schema to ensure high performance and filter 
 
 ---
 
-## 💡 Key Technical Learnings
+##  Key Technical Learnings
 * **Full-Stack Data Workflow:** Mastering the transition from Python-based data cleaning to Power BI visualization.
 * **DAX Optimization:** Overcoming circular dependencies and mastering Row vs. Filter context for reactive triage scores.
 * **Advanced AI Visuals:** Implementing machine learning visuals (Key Influencers) to automate the discovery of clinical correlations.
